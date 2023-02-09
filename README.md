@@ -1,4 +1,4 @@
-# SRC-Blood-Cells
+# SRC Project
 
 # Abstract:
 
