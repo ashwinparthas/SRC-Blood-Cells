@@ -1,5 +1,4 @@
 # SRC-Blood-Cells
-Code Written for SRC Blood Cell Research
 
 # Abstract:
 
