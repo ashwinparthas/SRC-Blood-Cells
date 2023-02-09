@@ -1,9 +1,9 @@
 # Sparse Representation Classifier for Artificial Intelligent Microscopy of Blood-Based Diseases Using a Tensor Processing Unit
 
-# Purpose
+## Purpose
 Develop a sparse representation model running on a tensor processing unit that can characterize blood samples for blood-based diseases with real-time microscopic images using fewer training examples compared to a convolutional neural network.
 
-# Abstract
+## Abstract
 
 Microscopic blood cell analysis is a critical activity in the pathological analysis of blood-based diseases,meaning 
 automated methods to classify cell subtypes have important medical applications. A sparse representation classifier (SRC) is a 
@@ -21,14 +21,15 @@ a SRC and a tensor processing unit, the amount of blood data and thus the cost a
 based disease diagnosis using cell subtypes can be minimized.
 
 
-# Poster
+## Poster
 
 ![SRC-Poster](https://user-images.githubusercontent.com/106894577/217686021-19f48b04-7c4e-4aa1-846d-ff52cdd1095d.jpg)
 
+### PDF Version of Poster:
 
 [SRC-Poster.pdf](https://github.com/ashwinparthas/SRC-Blood-Cells/files/10691384/SRC-Poster.pdf)
 
 
-# Research Paper
+## Research Paper
 
 [SRC-Research-Paper.pdf](https://github.com/ashwinparthas/SRC-Blood-Cells/files/10691386/SRC-Research-Paper.pdf)
